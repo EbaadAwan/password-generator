@@ -1,19 +1,14 @@
-# Getting Started
+# Password Generator
+
+This is a mini project built using HTML, CSS, and JavaScript. The idea came from the Scrimba Fullstack Developer Path, where students are given projects to complete from scratch after finishing a module or a set of lessons.
+
+This project served as a hands-on way to strengthen my understanding of building interactivity in web development, while also focusing on creating a clean and user-friendly interface. Through this experience, I reinforced core frontend fundamentals and continued developing my skills in JavaScript and UI design.
+
+# Running the Project
 Install the dependencies and run the project
 ```
 npm install
 npm start
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Just a heads up, this project was created in the Scrimba environment where there will be a lot of white space.
